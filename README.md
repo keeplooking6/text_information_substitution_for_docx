@@ -1,0 +1,2 @@
+# text_information_substitution_for_docx
+docx中的文本信息替换小工具
