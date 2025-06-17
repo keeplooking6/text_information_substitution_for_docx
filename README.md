@@ -1,2 +1,2 @@
 # text_information_substitution_for_docx
-docx中的文本信息替换小工具
+docx中的文本信息替换小工具及优化演进过程
